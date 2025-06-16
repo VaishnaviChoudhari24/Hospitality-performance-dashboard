@@ -1,3 +1,5 @@
+Hospitality Performance Dashboard
+
 🚨 Just wrapped up building this Hospitality Performance Dashboard in Power BI! 🚨
 
 This dashboard provides a comprehensive view of hospitality performance metrics across multiple cities and room categories. Here are some key insights:
